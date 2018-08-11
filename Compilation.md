@@ -1,0 +1,278 @@
+## Problems
+- (01) Difficult to analyse, manage or view data from e-learning systems
+- (02) The evaluation teachers process (e.g. time consuming, difficult)
+- (03) Lecture video in order to assist the learning
+- (04) Online learner participation (explicit)
+- (05) Student drop out
+- (06) Students bad grades or bad performance
+- (07) Analyse Student performance or learning
+- (08) Predict Student performance
+- (09) Analyse Student behavior (e.g., explicit, engagement)
+- (10) Learning to program
+- (11) Literature Review
+- (12) Generation of Feedback to teacher
+- (13) Predict Student behavior
+- (14) Language Proficiency
+
+## Objectives
+- (01) Make or improve a tool to analyse data from the e-learning systems (e.g., early warning system (EWS), widget, plugin).
+- (02) To allow teachers know students’ learning performance while the curse goes through.
+- (03) Analyse online discussion activity (e.g., forum, chat)
+- (04) Identify learners’ profiles in online discussion forums.
+- (05) To develop a theoretical model
+- (06) Predict students at risk (e.g., drop out, bad grades)
+- (07) To collect student interactions
+- (08) Identify learners’ patterns of engagement and disengagement
+- (09) Identify learners’ patterns of performance or learning
+- (10) Identify learners’ patterns of behavior or trajectory
+- (11) Identify predictors of performance
+- (12) To design visualizations
+- (13) To relate students’ goals at the course with their performance
+- (14) To analyse the use of badges
+- (15) Identify reasons for drop out
+- (16) Predict students certification
+- (17) Literature Review
+- (18) Identify learners’ motivations
+- (19) Identify learners’ personality
+- (20) Teachers’ behavior (e.g., patterns, interventions to increase academic performance)
+- (21) Offer action recommendation to teacher
+- (22) to make students aware of their behavior or performance
+
+## Methodologies
+- (01) Analysis using tools (without specify method) as excel, weka , matlab
+- (02) Fuzzy clustering models or Fuzzy C-means (FCM) and Kernelized Fuzzy C-means (KFCM)
+- (03) Fuzzy Inductive Reasoning (FIR)
+- (04) K-means clustering
+- (05) Logistic Regression
+- (06) Naïve Bayes
+- (07) Decision trees (e.g., C4.5, C5.0, classification and regression tree (CART), Gradient Boosting, Decision Table)
+- (08) SVM
+- (09) Semantic Spiral Timeline (SST)
+- (10) Social Network Analysis (e.g., forum, chat), Correlation between online discussion activity (e.g., forum, chat) and grades achieved.
+- (11) Linear Regression
+- (12) Text mining techniques (e.g., SPSS Clementine’s, Latent semantic analysis (LSA), Probabilistic latent semantic analysis (PLSA), Latent Dirichlet Allocation (LDA))
+- (13) N-gram models
+- (14) Pearson correlation
+- (15) interactive tool Tableau
+- (16) adaptive boosting (AdaBoost)
+- (17) Only indicators defined by own authors;
+- (18) ANOVA
+- (19) Spearman correlation
+- (20) ANN - Artificial neural network (e.g., RNN - Recurrent Neural Networks (e.g., Long Short Term Memory (LSTM)))
+- (21) calculates the vector Euclidean distance
+- (22) MANOVA
+- (23) Sequential Minimal Optimization (SMO)
+- (24) Conditional Random Fields (CRF)
+- (25) Literature Review
+- (26) Fuzzy Cognitive Map (FCM)
+- (27) Bayesian Network
+- (28) Kstar or K*
+- (29) Random forest
+- (30) OneR
+- (31) JRIP
+- (32) K-NN (K-Nearest Neighbor) (e.g., IB1, IB2, IB3, IB4, IB5, IBK)
+- (33) RandomTree
+- (34) treeBagger
+- (35) Factorization Machines (FM)
+- (36) exponential random graph models (ERGMs)
+- (37) Gaussian Processes (GP)
+- (38) Stochastic gradient descent (SGD)
+- (39) hidden Markov model (HMM)
+- (40) Bayesian Information Criterion (BIC)
+- (41) Bernoulli binary model
+- (42) Poisson count model
+- (43) t-distributed Stochastic Neighbor Embedding (t-SNE)
+- (44) Fuzzy Miner algorithm (e.g., Disco Miner)
+- (45) Maximum likelihood estimation (MLE)
+- (46) Correlating questionnaire data with interaction or academic performace;
+- (47) Myers-Briggs Type Indicator (MBTI) model
+- (48) No specify method
+- (49) Cronbach’s alpha
+- (50) Average Variance
+
+## Case
+- (01) Computer courses
+- (02) Introductory Course in Communication and Educational Technologies
+- (03) Electronic Circuits, Nanoelectronics
+- (04) Subjects areas of art
+- (05) Economics and Business, Statistics, Entrepreneurship
+- (06) Law
+- (07) Electrical Engineering
+- (08) health science
+- (09) misc courses of different areas
+- (10) Chemistry
+- (11) Psychology
+- (12) Science of Public Administration
+- (13) Course of Google’s mapping and Google Earth products
+- (14) Linear Systems Theory
+- (15) Mathematics
+- (16) Mechanics Review
+- (17) Telecommunication
+- (18) Genes and the Human Condition (From Behavior to Biotechnology)
+- (19) undergraduate information literacy course
+- (20) English course
+- (21) physics course
+- (22) Electricity and Magnetism
+- (23) Sociology course
+- (24) Sport course
+- (25) Ergonomics course
+- (26) Dance course
+- (27) Sport Management course
+- (28) Psychomotor Rehabilitation course
+- (29) Extreme Weather
+- (30) Accounting course
+- (31) Marketing course
+- (32) Engineering course
+- (33) History
+- (34) Discrete Optimization
+- (35) Assessment and teaching of 21st century skills
+- (36) The French Revolution (825)
+- (37) Animal Behaviour
+- (38) Political Science
+- (39) Treatment of Urban Sewage
+- (40) Solar Energy (SE).
+- (41) Gestão de empresas
+- (42) curso de Aula constructivista
+- (43) Project Management
+- (44) basic search course
+- (45) Biology
+- (46) Material Science
+- (47) Writing course
+- (48) Pharmacy
+- (49) linguistics
+
+## Results
+#### (01) Students with Self-regulated
+- (001) Online learning requires even more learner motivation and self-direction than traditional classroom-based instruction.
+- (114) Students with Negative Self-regulated have negative relation with academic performance.
+- (002) Students with self-regulation not necessarily imply in good performance.
+#### (02) Click Activity
+- (009) Students who increased or has a high click activity have a higher probability of passing the course.
+- (010) Students who decreased or has a low click activity have a higher probability of failing the course.
+#### (03) Engagement
+- (011) Engagement in the online environment, as measured by assessment did on the environment.
+- (012) Engagement in the online environment, as measured by materials accessed on the environment.
+- (013) Engagement in the online environment, as measured by total hits, readings, and postings.
+- (014) Engagement in the online environment, as measured by how long students are watching each video
+- (015) Engagement in the online environment, as measured by taking notes
+- (016) Engagement on the discussion forum is associated with behaviors that are on the pathway to earning a certificate in MOOCs.
+- (004) It is possible to obtain accurate classification models to predict students’ engagement through the analysis of the students’ interaction
+- (094) The use of badges in course had higher engagement compared to course in which badges were not used.
+- (101) Learning design and learning design activities influence how students are engaging in our LMS
+#### (04) Cluster
+- (017) Students can be clustered into different groups based on their access or interaction patterns.
+#### (05) Forum
+- (026) Older students participate more in forums
+- (092) Students with Ph.D. degrees participated less in forums than non-Ph.D. holders.
+- (052) Bachelors post significantly more questions in non-science courses.
+- (096) Students of humanities and social sciences courses make more threads classified as small-talk (e.g., self-introductions)
+- (097) Teaching staff active participation in the forum is associated with a higher volume of post
+- (112) Teacher's participation (e.g., posts, activity) lead to the engagement of the student (e.g., module, wiki, blog, form, forum)
+- (098) Peer-reviewed homework increase posts
+- (027) Students fluent in English MOOCs start more forum threads make more comments, and votes more on other learners’ posts than to students not fluent.
+- (087) Students in Health Sciences, Education and Arts & Letters make more questions than students in other colleges (e.g., Business & Public Administration, Engineering & Technology, and Sciences).
+- (088) There is a positive correlation between the number of questions students asked to the instructor and their final grade for both courses.
+- (028) Student groups that use more forums tend to have a good performance.
+- (106) Student groups that have more posts are more likely to complete the course
+- (029) Students groups that do more assessment tend to use more forums
+- (030) Students groups that do more replies in forums tend to have a good performance.
+- (031) Students groups that init threads in forums tend to have a good performance.
+- (084) The number of posts in forums rises in periods close when assignments and examinations are due.
+- (032) Classrooms with the most active consultant teachers – higher number of posts and replies – correspond to the worst performing group.
+- (051) Forum can be used as a predictor of students completing the course
+- (102) Comments can be used as a predictor of students performance
+#### (06) Students' performance
+- (041) Researches in predicting performance of students
+- (035) Successful students are more frequently and regularly participating and engaged in online activities.
+- (100) There are positive correlations between productive and assessment activities and pass rates
+- (109) Dataset consisting of time-based data can be used to predict performance
+- (104) Conditional Random Fields (CRF) can be used as a predictor of students performance
+- (079) It is possible to obtain accurate classification models to predict students’ performance through the analysis of the students’ interaction
+- (042) Viewing of the course material and students previous performance contribute the most to the predicted grades.
+- (085) Good performance prediction based on basic demographic information and academic history
+- (086) Good performance prediction based on the ratio of credits earned to credits attempted
+- (024) Patterns of Students performance are related with Human Development Index (HDI)
+- (019) Page viewing times has a significant positive impact on students' final score
+- (020) Students with a satisfatory performance ignore part of the materials in distance courses
+- (021) There are demographic differences in student behavior, interaction patterns and performance
+- (022) Students not fluent in English MOOCs has certification rates lower than students fluent.
+- (023) Higher achievement is related, counter-intuitively, to being in a non-English speaking country.
+- (006) Older students taking online courses tended to perform better than younger students.
+#### (07) Course completion and Certification
+- (005) MOOCs typically have lower completion rates.
+- (091) Students who earned a certificate on online course most commonly held a master’s degree
+- (037) Completing activities or assessment can be used as a predictor of students completing the course
+- (034) Planning prompts increased course completion
+- (038) Event logs from students can be used as a predictor of students completing the course
+- (039) Data Access can be used as a predictor of students completing the course
+- (103) Support Vector Machines (SVM) classifier with Different Error Costs (DEC) can be used to predict certification
+- (093) Students who will go on to complete the course are on a rapid increase in their advanced search skills use
+#### (08) Drop out
+- (043) Researches in predicting drop out of students in distance learning
+- (095) Researches in identify reasons for drop out
+- (047) Student inactive for more than 3 weeks, likely dropout from the course
+- (040) It is possible to obtain accurate classification models to predict students’ drop out through the analysis of the students’ interaction
+- (105) Helping resolving or providing responses to student confusion reduces their dropout in the courses
+- (107) The extent to which different types of confusion affect dropout is determined by specific courses.
+- (108) Students that show confusion and don't have their doubts resolved are more likely to dropout.
+- (033) Classrooms where the teacher intervened the least had high drop-out rates.
+#### (09) Tools
+- (025) Analytics in learning systems can be used to provide both auditing and interventions in student learning.
+- (048) Suggest a tool that use logs from e-learning system to teachers monitore students behavior, motivation or performace.
+- (049) Tools to aid teachers analyse student behavior
+- (050) Tools to aid students analyse their self performance.
+#### (10) Intention
+- (053) Students who intended to earn a certificate in MOOCs are more likely to watch most video lectures and attempt most assessments in the course.
+- (054) Students with the intention to earn a certificate in MOOCs are more likely to actively engage on the discussion forum.
+- (055) Students with the intention to meet new people are engaged on the discussion board and even of receiving social recognition from peers (e.g., votes) in MOOCs.
+- (056) Students with the intention to meet new people are less engaged with lectures and assessments in MOOCs.
+- (057) Students with the intention to take the course with colleagues are more likely to watch at least 10% of lecture videos and assessments in MOOCs.
+- (058) Students with the intention to take the course with colleagues are more likely to more likely to earn a certificate in MOOCs.
+- (059) Students with the intention to take the course with colleagues are less likely to engage in the discussion forum in MOOCs.
+- (060) Students with the intention to take the course due to job relevance were more likely to watch at least 10% of lecture videos in MOOCs.
+- (061) Students with the intention to take the course due to job relevance were less likely to actively engage on the forum.
+- (062) Students with the intention to change its career were more likely to watch more than 80% of video lectures
+- (063) Students with the intention to change its career were more likely to complete more than half of the assessments in the course.
+- (064) Students with the intention to dedicate more than 6 hours on average to the course and aimed for achieving a higher grade in the course were less likely to be sporadic users.
+- (065) Students with the intention to participate in all aspects of the course were also less likely to be sporadic in their use of course material.
+#### (11) Attending
+- (036) Researches in attending detectation of students in distance learning
+- (090) Students who participating on online course most commonly held a bachelor’s degree
+- (018) Students from countries with lower student-teacher ratios seem to participate in MOOCs later in life than students from countries with higher student-teacher ratios
+- (---) Students who attend hybrid courses (online and face-to-face delivery) performed better than students in traditional face-to-face classroom
+- (---) Students who attend hybrid courses (online and face-to-face delivery) perceived learning being more effective than students in traditional face-to-face classroom
+#### (12) Personality
+- (110) Researches in identify students’ personality
+- (111) Students' personality can be identified through interaction logs.
+#### (13) Videos
+- (007) Streaming is the dominant form of access to video lectures.
+- (066) There is a positive correlation, within a certain range, between the lengths of online time and watching video with learning results
+- (067) The Audience Retention (AR) decreases with video length.
+- (068) Students often do not watch the entire videos
+- (069) The shortest videos has the highest engagement.
+- (070) Students also engaged less frequently with assessment problems that followed longer videos.
+- (071) Students usually engaged more with talking-head videos.
+- (072) Students are more engaged with Khan-style tutorials.
+- (073) Students engaged more with pre-production videos.
+- (074) Students generally engaged more with videos where instructors spoke faster.
+- (075) Students re-watch tutorials more frequently than lectures.
+- (099) Student dwelling increases with a high or complexity information rate
+- (089) Students engaged more on videos filmed informally with the instructor sitting at his office desk, when compared with a video filmed in a multi-million dollar TV production studio.
+- (076) Students with satisfatory performance interact more in timeline than others.
+- (077) Older students backjump more frequently in timeline.
+- (078) A higher student-teacher ratio corresponds to fewer backjumps;
+- (080) Videos often are where learners spend a great deal of time in a MOOC
+- (081) Videos with slide (theory) format performs worst in terms of holding the students’ attention on video than videos with slide (code)
+- (082) Students not fluent in English MOOCs create significantly more transcript events than students fluent.
+- (083) Students not fluent in English MOOCs take significantly more video play, video pause, and seek actions compared to students fluent.
+- (113) Videos with walkthroughs coding tend to have a higher engagement than the active coding sections
+- (115) Certificate-earners also engage heavily with in-video quizzes.
+- (---) Videos are the primary method for presenting information in many MOOCs
+#### (14) Others
+- (008) Access in the online environment resources increase in periods close exams or assessment deadline.
+- (044) There is herding phenomenon in online learning
+- (045) The difficult level of a course is positively correlated with the rational herding of learners will be.
+- (046) The experience of learners is positively correlated with rational herding behavior.
+- (003) Courses with less than 1,000 participants are likely to fit with the Zipf’s law.
+- (---) The frequency of engagement with Facebook has a negative correlation with the amount of time spent by students preparing for class
+- (---) Students who spend more time chatting online than their peers report greater levels of academic impairment
