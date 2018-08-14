@@ -90,7 +90,7 @@
 - (49) Cronbach’s alpha
 - (50) Average Variance
 
-## Case
+## Cases
 - (01) Computer courses
 - (02) Introductory Course in Communication and Educational Technologies
 - (03) Electronic Circuits, Nanoelectronics
