@@ -1,8 +1,8 @@
 10.1145/2500876
 ## 2010
 
-#### ACM
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### ACM
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -13,8 +13,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### Elsevier
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### Elsevier
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -25,8 +25,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### IEEE
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### IEEE
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -39,8 +39,8 @@
 
 ## 2011
 
-#### ACM
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### ACM
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -51,8 +51,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### Elsevier
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### Elsevier
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -63,8 +63,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### IEEE
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### IEEE
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -77,8 +77,8 @@
 
 ## 2012
 
-#### ACM
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### ACM
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -89,8 +89,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### Elsevier
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### Elsevier
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -101,8 +101,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### IEEE
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### IEEE
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -115,8 +115,8 @@
 
 ## 2013
 
-#### ACM
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### ACM
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -127,8 +127,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### Elsevier
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### Elsevier
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -139,8 +139,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### IEEE
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### IEEE
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -153,8 +153,8 @@
 
 ## 2014
 
-#### ACM
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### ACM
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -165,8 +165,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### Elsevier
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### Elsevier
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -177,8 +177,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### IEEE
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### IEEE
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -191,8 +191,8 @@
 
 ## 2015
 
-#### ACM
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### ACM
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -203,8 +203,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### Elsevier
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### Elsevier
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -215,8 +215,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### IEEE
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### IEEE
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -229,8 +229,8 @@
 
 ## 2016
 
-#### ACM
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### ACM
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -241,8 +241,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### Elsevier
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### Elsevier
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -253,8 +253,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### IEEE
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### IEEE
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -267,8 +267,8 @@
 
 ## 2017
 
-#### ACM
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### ACM
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -279,8 +279,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### Elsevier
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### Elsevier
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -291,8 +291,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### IEEE
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### IEEE
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -305,8 +305,8 @@
 
 ## 2018
 
-#### ACM
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### ACM
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -317,8 +317,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### Elsevier
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### Elsevier
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
@@ -329,8 +329,8 @@
 - **Results:** 
 - **Notes:** 
 
-#### IEEE
-###### **Title** - [DOI](http://dx.doi.org/DOI)
+### IEEE
+#### **Title** - [DOI](http://dx.doi.org/DOI)
 - **Source:** 
 - **Problem:** 
 - **Objective:** 
