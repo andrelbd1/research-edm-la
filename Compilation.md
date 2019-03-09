@@ -218,7 +218,7 @@
 - (033) Classrooms where the teacher intervened the least had high drop-out rates.
 #### (09) Tools
 - (025) Analytics in learning systems can be used to provide both auditing and interventions in student learning.
-- (048) Suggest a tool that use logs from e-learning system to teachers monitore students behavior, motivation or performace.
+- (048) Suggest a tool that uses logs from e-learning system to teachers monitore students behavior, motivation or performance.
 - (049) Tools to aid teachers analyse student behavior
 - (050) Tools to aid students analyse their self performance.
 #### (10) Intention
