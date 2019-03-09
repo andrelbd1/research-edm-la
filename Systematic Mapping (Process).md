@@ -20,6 +20,8 @@
 - Dashboard fornecendo ao aluno um guideline de interação com o AVA (recursos e material do professor) podem influenciar no comportamento do aluno?
     - Esses guidelines podem melhorar os índices de notas satisfatórias, conclusão de curso e desistencia?
 
+- Which results related VLE logs analysis and student behavior and performance?
+- Which tools (e.g., dashboard) are used by instructors to analyze logs of student interactions with VLEs?
 
 ### Palavras-Chave
 - Q1: (education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND (analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining")
@@ -32,49 +34,80 @@
 ### Acervos
 ###### [ACM:](http://dl.acm.org/advsearch.cfm)
   - Query_01: { (keywords.author.keyword:(education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND (analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining")) OR (recordAbstract:(education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND (analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining") OR (acmdlTitle: (education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND (analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining")) } "filter": {"publicationYear":{ "gte":2010 }}, {owners.owner=HOSTED}, {resources%2Eft%2EresourceFormat%3DPDF}
-    - Results: 979
+    - Results:
+        - 21 fev, 2018 (2010-2018): 979
+        - 25 fev, 2019 (2018-2019): 227
 
   - Query_02: { (keywords.author.keyword:("virtual learning environments" OR "virtual training environments") AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining")) OR (recordAbstract:("virtual learning environments" OR "virtual training environments") AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining") OR (acmdlTitle: ("virtual learning environments" OR "virtual training environments") AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining")) } "filter": {"publicationYear":{ "gte":2010 }}, {owners.owner=HOSTED}, {resources%2Eft%2EresourceFormat%3DPDF}
-    - Results: 9
+    - Results:
+        - 21 fev, 2018 (2010-2018): 9
+        - 25 fev, 2019 (2018-2019): 2
 
   - Query_03: { (keywords.author.keyword:("learning management system" OR LMS) AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining")) OR (recordAbstract:("learning management system" OR LMS) AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining") OR (acmdlTitle: ("learning management system" OR LMS) AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining")) } "filter": {"publicationYear":{ "gte":2010 }}, {owners.owner=HOSTED}, {resources%2Eft%2EresourceFormat%3DPDF}
-    - Results: 32
+    - Results:
+        - 21 fev, 2018 (2010-2018): 32
+        - 25 fev, 2019 (2018-2019): 7
 
   - Query_04: { (keywords.author.keyword:(education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND ("learning analytics")) OR (recordAbstract:(education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND ("learning analytics") OR (acmdlTitle: (education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND ("learning analytics")) } "filter": {"publicationYear":{ "gte":2010 }}, {owners.owner=HOSTED}, {resources%2Eft%2EresourceFormat%3DPDF}
-    - Results: 162
-
+    - Results:
+        - 21 fev, 2018 (2010-2018): 162
+        - 25 fev, 2019 (2018-2019): 34
 
 ###### [Elsevier:](http://www.sciencedirect.com/science/search)
   - Query_01: pub-date > 2009 and TITLE-ABSTR-KEY((education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND (analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining"))[All Sources(Computer Science)].
-    - Results: 353
+    - Open access set
+    - Results:
+        - 21 fev, 2018 (2010-2018): 353
+        - 25 fev, 2019 (2018-2019): 122
 
   - Query_02: pub-date > 2009 and TITLE-ABSTR-KEY(("virtual learning environments" OR "virtual training environments") AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining"))[All Sources(Computer Science)].
-    - Results: 15
+    - Open access set
+    - Results:
+        - 21 fev, 2018 (2010-2018): 15
+        - 25 fev, 2019 (2018-2019): 2
 
   - Query_03: pub-date > 2009 and TITLE-ABSTR-KEY(("learning management system" OR LMS) AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analysis OR analyses OR analytics OR analytic OR visualisation OR visualization OR "data mining"))[All Sources(Computer Science)].
-    - Results: 44
+    - Open access set
+    - Results:
+        - 21 fev, 2018 (2010-2018): 44
+        - 25 fev, 2019 (2018-2019): 3
 
   - Query_04: pub-date > 2009 and TITLE-ABSTR-KEY((education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND ("learning analytics"))[All Sources(Computer Science)].
-    - Results: 17
+    - Open access set
+    - Results:
+        - 21 fev, 2018 (2010-2018): 17
+        - 25 fev, 2019 (2018-2019): 1
 
 
 ###### [IEEE:](http://ieeexplore.ieee.org/search/advsearch.jsp)
   - Note: Problem in the use of advanced search. Use the search bar.
 
   - Query_01: (education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND (analys*s OR analytic* OR visuali*ation OR "data mining")
-    - Results: 46
+    - Open access set
+    - Results:
+        - 21 fev, 2018 (2010-2018): 46
+        - 25 fev, 2019 (2018-2019): 62
   - Link: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=.LB.education%20OR%20course%20OR%20MOOC%20OR%20.QT.e-learning.QT.%20OR%20teaching.RB.%20AND%20.LB.engagement%20OR%20behavior%20OR%20behaviour.RB.%20AND%20.LB.analys*s%20OR%20analytic*%20OR%20visuali*ation%20OR%20.QT.data%20mining.QT..RB.&ranges=2010_2018_Year&rowsPerPage=50
 
   - Query_02: ("virtual learning environments" OR "virtual training environments") AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analys*s OR analytic* OR visuali*ation OR "data mining")
-    - Results: 7
+    - Open access
+    - Results:
+        - 21 fev, 2018 (2010-2018): 7
+        - 25 fev, 2019 (2018-2019): 0
   - Link: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=.LB..QT.virtual%20learning%20environments.QT.%20OR%20.QT.virtual%20training%20environments.QT..RB.%20AND%20.LB.engagement%20OR%20behavior%20OR%20behaviour.RB.%20AND%20.LB..QT.learning%20analytics.QT.%20OR%20analys*s%20OR%20analytic*%20OR%20visuali*ation%20OR%20.QT.data%20mining.QT..RB.&ranges=2010_2018_Year&rowsPerPage=50
 
   - Query_03: ("learning management system" OR LMS) AND (engagement OR behavior OR behaviour) AND ("learning analytics" OR analys*s OR analytic* OR visuali*ation OR "data mining")
-    - Results: 3
+    - Results:
+        - 21 fev, 2018 (2010-2018): 3
+        - 25 fev, 2019 (2018-2019): 0
+    - Open access
   - Link: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=.LB..QT.learning%20management%20system.QT.%20OR%20LMS.RB.%20AND%20.LB.engagement%20OR%20behavior%20OR%20behaviour.RB.%20AND%20.LB.engagement%20OR%20behavior%20OR%20behaviour.RB.%20AND%20.LB..QT.learning%20analytics.QT.%20OR%20analys*s%20OR%20analytic*%20OR%20visuali*ation%20OR%20.QT.data%20mining.QT..RB.&ranges=2010_2018_Year&rowsPerPage=50
 
   - Query_04: (education OR course OR MOOC OR "e-learning" OR teaching) AND (engagement OR behavior OR behaviour) AND ("learning analytics")
-    - Results: 46
+    - Results:
+        - 21 fev, 2018 (2010-2018): 46
+        - 25 fev, 2019 (2018-2019): 4
+    - Open access
   - Link: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=.LB.education%20OR%20course%20OR%20MOOC%20OR%20.QT.e-learning.QT.%20OR%20teaching.RB.%20AND%20.LB.engagement%20OR%20behavior%20OR%20behaviour.RB.%20AND%20.LB..QT.learning%20analytics.QT..RB.&ranges=2010_2018_Year&rowsPerPage=50
 
 
@@ -110,14 +143,18 @@
 - Trabalhos que não apresentam resultados.
 
 ### Procedimento de seleção (ACM + Elsevier + IEEE).
-- Elaborar querys para serem utilizadas no buscador de cada biblioteca, pesquisando por trabalhos publicados durante os anos de 2010 e 2018.
-  - Result (Q1 + Q2 + Q3 + Q4): (979 + 353 + 46) + (9 + 15 + 7) + (32 + 44 + 3) + (159 + 17 + 46) = 1710
+- Elaborar querys para serem utilizadas no buscador de cada biblioteca, pesquisando por trabalhos publicados durante os anos de 2010 e 2019.
+  - Result (2010-2018): (Q1 + Q2 + Q3 + Q4): (979 + 353 + 46) + (9 + 15 + 7) + (32 + 44 + 3) + (159 + 17 + 46) = 1710
+  - Result (2018-2019): (Q1 + Q2 + Q3 + Q4): (227 + 122 + 62) + (2 + 2 + 0) + (7 + 3 + 0) + (34 + 1 + 4)= 464
 - Eliminar trabalhos duplicados.
   - Result (2010 - 2018): () + () + () + () + () + () + () + () + () = 1427
+  - Result (2018 - 2019): () + () + () + () + () + () + () + () + () = 408
 - Analisar se o título, as palavras chave e o abstract se relacionam com os critérios de inclusão e exclusão da pesquisa.
   - Result (2010 - 2018): (4 + 4 + 2) + (8 + 1 + 0) + (12 + 1 + 0) + (21 + 5 + 2) + (30 + 9 + 5) + (30 + 10 + 8) + (32 + 7 + 7) + (42 + 10 + 10) + (2 + 2 + 0) = 264
+  - Result (2018 - 2019): (45 + 4 + 5) + (2 + 0 + 0) = 56
 - Analisar o artigo completo.
   - Result (2010 - 2018): (0 + 1 + 1) + (2 + 0 + 0) + (3 + 0 + 0) + (6 + 3 + 0) + (14 + 2 + 3) + (13 + 6 + 2) + (16 + 2 + 2) + (21 + 3 + 8) + (0 + 1 + 0) = 109
+  - Result (2018 - 2019): 
 
 ### Qualidade da avaliação.
 -
