@@ -28,7 +28,7 @@
 - (11) Identify predictors of performance
 - (12) To design visualizations
 - (13) To relate students’ goals at the course with their performance
-- (14) To analyse the use of badges
+- (14) To analyse the use of gamification techniques (e.g., badges, leaderboard)
 - (15) Identify reasons for drop out
 - (16) Predict students certification
 - (17) Literature Review
@@ -36,7 +36,7 @@
 - (19) Identify learners’ personality
 - (20) Teachers’ behavior (e.g., patterns, interventions to increase academic performance)
 - (21) Offer action recommendation to teacher
-- (22) to make students aware of their behavior or performance
+- (22) To make students aware of their behavior or performance
 
 ## Methodologies
 - (01) Analysis using tools (without specify method) as excel, weka , matlab
@@ -45,7 +45,7 @@
 - (04) K-means clustering
 - (05) Logistic Regression
 - (06) Naïve Bayes
-- (07) Decision trees (e.g., C4.5, C5.0, classification and regression tree (CART), Gradient Boosting, Decision Table)
+- (07) Decision trees (e.g., C4.5, C5.0, classification and regression tree (CART), Tree Esemble, Gradient Boosting, Decision Table)
 - (08) SVM
 - (09) Semantic Spiral Timeline (SST)
 - (10) Social Network Analysis (e.g., forum, chat), Correlation between online discussion activity (e.g., forum, chat) and grades achieved.
@@ -53,13 +53,13 @@
 - (12) Text mining techniques (e.g., SPSS Clementine’s, Latent semantic analysis (LSA), Probabilistic latent semantic analysis (PLSA), Latent Dirichlet Allocation (LDA))
 - (13) N-gram models
 - (14) Pearson correlation
-- (15) interactive tool Tableau
-- (16) adaptive boosting (AdaBoost)
-- (17) Only indicators defined by own authors;
+- (15) Interactive tool Tableau
+- (16) Adaptive boosting (AdaBoost)
+- (17) Indicators defined by own authors;
 - (18) ANOVA
 - (19) Spearman correlation
 - (20) ANN - Artificial neural network (e.g., RNN - Recurrent Neural Networks (e.g., Long Short Term Memory (LSTM)))
-- (21) calculates the vector Euclidean distance
+- (21) Calculates the vector Euclidean distance
 - (22) MANOVA
 - (23) Sequential Minimal Optimization (SMO)
 - (24) Conditional Random Fields (CRF)
@@ -74,10 +74,10 @@
 - (33) RandomTree
 - (34) treeBagger
 - (35) Factorization Machines (FM)
-- (36) exponential random graph models (ERGMs)
+- (36) Exponential random graph models (ERGMs)
 - (37) Gaussian Processes (GP)
 - (38) Stochastic gradient descent (SGD)
-- (39) hidden Markov model (HMM)
+- (39) Hidden Markov model (HMM)
 - (40) Bayesian Information Criterion (BIC)
 - (41) Bernoulli binary model
 - (42) Poisson count model
@@ -89,17 +89,30 @@
 - (48) No specify method
 - (49) Cronbach’s alpha
 - (50) Average Variance
+- (51) Face tracking
+- (52) Cohen’s kappa
+- (53) Matthews Correlation Coefficient (MCC)
+- (54) Hoeffding
+- (55) J48
+- (56) Ward's
+- (57) CPB algorithm
+- (58) Expectation Maximization (EM)
+- (59) Stouffer’ Z-score
+- (60) Wilcoxon test
+- (61) ANCOVA
+- (62) Chi-squared test
+- (63) Regularized Discriminant Analysis (RDA)
 
 ## Cases
-- (01) Computer courses
+- (01) Computing courses
 - (02) Introductory Course in Communication and Educational Technologies
 - (03) Electronic Circuits, Nanoelectronics
 - (04) Subjects areas of art
 - (05) Economics and Business, Statistics, Entrepreneurship
 - (06) Law
 - (07) Electrical Engineering
-- (08) health science
-- (09) misc courses of different areas
+- (08) Health science
+- (09) Misc courses of different areas (without specify them)
 - (10) Chemistry
 - (11) Psychology
 - (12) Science of Public Administration
@@ -109,11 +122,11 @@
 - (16) Mechanics Review
 - (17) Telecommunication
 - (18) Genes and the Human Condition (From Behavior to Biotechnology)
-- (19) undergraduate information literacy course
+- (19) Undergraduate information literacy course
 - (20) English course
-- (21) physics course
+- (21) Physics course
 - (22) Electricity and Magnetism
-- (23) Sociology course
+- (23) Phylosophy or Sociology course
 - (24) Sport course
 - (25) Ergonomics course
 - (26) Dance course
@@ -126,26 +139,31 @@
 - (33) History
 - (34) Discrete Optimization
 - (35) Assessment and teaching of 21st century skills
-- (36) The French Revolution (825)
+- (36) The French Revolution
 - (37) Animal Behaviour
 - (38) Political Science
 - (39) Treatment of Urban Sewage
-- (40) Solar Energy (SE).
+- (40) Solar Energy
 - (41) Gestão de empresas
-- (42) curso de Aula constructivista
+- (42) Curso de Aula constructivista
 - (43) Project Management
-- (44) basic search course
+- (44) Basic search course
 - (45) Biology
 - (46) Material Science
 - (47) Writing course
 - (48) Pharmacy
-- (49) linguistics
+- (49) Linguistics
+- (50) Instructional Design and Technology
+- (51) Literature
+- (52) Geoscience
+- (53) Stem course without specify it
 
 ## Results
 #### (01) Students with Self-regulated
 - (001) Online learning requires even more learner motivation and self-direction than traditional classroom-based instruction.
 - (114) Students with Negative Self-regulated have negative relation with academic performance.
 - (002) Students with self-regulation not necessarily imply in good performance.
+- (128) Students with self-regulation spend has more access in the VLE.
 #### (02) Click Activity
 - (009) Students who increased or has a high click activity have a higher probability of passing the course.
 - (010) Students who decreased or has a low click activity have a higher probability of failing the course.
@@ -153,12 +171,13 @@
 - (011) Engagement in the online environment, as measured by assessment did on the environment.
 - (012) Engagement in the online environment, as measured by materials accessed on the environment.
 - (013) Engagement in the online environment, as measured by total hits, readings, and postings.
-- (014) Engagement in the online environment, as measured by how long students are watching each video
-- (015) Engagement in the online environment, as measured by taking notes
+- (014) Engagement in the online environment, as measured by how long students are watching each video.
+- (015) Engagement in the online environment, as measured by taking notes.
 - (016) Engagement on the discussion forum is associated with behaviors that are on the pathway to earning a certificate in MOOCs.
-- (004) It is possible to obtain accurate classification models to predict students’ engagement through the analysis of the students’ interaction
-- (094) The use of badges in course had higher engagement compared to course in which badges were not used.
-- (101) Learning design and learning design activities influence how students are engaging in our LMS
+- (004) It is possible to obtain accurate classification models to predict students’ engagement through the analysis of the students’ interaction.
+- (094) The use of gamification features (e.g., badges) in course had higher engagement compared to course in which badges were not used.
+- (101) Learning design and learning design activities influence how students are engaging in the LMS.
+- (136) Teacher intervention can improve student engagement and achievement compared to teacher without intervention
 #### (04) Cluster
 - (017) Students can be clustered into different groups based on their access or interaction patterns.
 #### (05) Forum
@@ -172,15 +191,27 @@
 - (027) Students fluent in English MOOCs start more forum threads make more comments, and votes more on other learners’ posts than to students not fluent.
 - (087) Students in Health Sciences, Education and Arts & Letters make more questions than students in other colleges (e.g., Business & Public Administration, Engineering & Technology, and Sciences).
 - (088) There is a positive correlation between the number of questions students asked to the instructor and their final grade for both courses.
-- (028) Student groups that use more forums tend to have a good performance.
-- (106) Student groups that have more posts are more likely to complete the course
-- (029) Students groups that do more assessment tend to use more forums
-- (030) Students groups that do more replies in forums tend to have a good performance.
-- (031) Students groups that init threads in forums tend to have a good performance.
+- (028) Students that use more forums tend to have a good performance.
+- (106) Students that have more posts are more likely to complete the course
+- (029) Students that do more assessment tend to use more forums
+- (030) Students that do more replies in forums tend to have a good performance.
+- (031) Students that init threads in forums tend to have a good performance.
 - (084) The number of posts in forums rises in periods close when assignments and examinations are due.
 - (032) Classrooms with the most active consultant teachers – higher number of posts and replies – correspond to the worst performing group.
 - (051) Forum can be used as a predictor of students completing the course
 - (102) Comments can be used as a predictor of students performance
+- (116) The amount of comments produced by the two genders is related to the topic of the course, the course itself and the week of the course.
+- (121) Women has more postings than men.
+- (122) The proportion of women who post is higher than to those who only view the forum.
+- (123) The proportion of men who only view the forum is higher than to those who post.
+- (124) Women who participate more in forum are those one who indicate they took the course due to being a student and wanting to learn.
+- (125) Men who participate more in forum are those one who indicate they took the course due to career aspirations.
+- (130) Students who use a narrower variety of words are more likely to complete the course.
+- (131) Students that write longer posts are more likely to complete the course.
+- (132) Students that do more replies in forums tend to complete the course.
+- (133) Students that init threads in forums tend to complete the course.
+- (134) Students characterized by grades lower than average, has their questions with more votes than average.
+- (135) Students characterized by grades higher than average, has their questions with less votes than average.
 #### (06) Students' performance
 - (041) Researches in predicting performance of students
 - (035) Successful students are more frequently and regularly participating and engaged in online activities.
@@ -198,9 +229,12 @@
 - (022) Students not fluent in English MOOCs has certification rates lower than students fluent.
 - (023) Higher achievement is related, counter-intuitively, to being in a non-English speaking country.
 - (006) Older students taking online courses tended to perform better than younger students.
+- (126) Student performance has significant decrease in the curse goes through.
+- (127) Students who earned high grades could be distinguished from other students based on interaction patterns in the first two weeks of class.
 #### (07) Course completion and Certification
 - (005) MOOCs typically have lower completion rates.
 - (091) Students who earned a certificate on online course most commonly held a master’s degree
+- (137) Students who earned a certificate on online course most commonly held a bachelors’s degree
 - (037) Completing activities or assessment can be used as a predictor of students completing the course
 - (034) Planning prompts increased course completion
 - (038) Event logs from students can be used as a predictor of students completing the course
@@ -215,12 +249,13 @@
 - (105) Helping resolving or providing responses to student confusion reduces their dropout in the courses
 - (107) The extent to which different types of confusion affect dropout is determined by specific courses.
 - (108) Students that show confusion and don't have their doubts resolved are more likely to dropout.
-- (033) Classrooms where the teacher intervened the least had high drop-out rates.
+- (033) Classrooms where the teacher intervened the least had high dropout rates.
 #### (09) Tools
 - (025) Analytics in learning systems can be used to provide both auditing and interventions in student learning.
 - (048) Suggest a tool that uses logs from e-learning system to teachers monitore students behavior, motivation or performance.
 - (049) Tools to aid teachers analyse student behavior
-- (050) Tools to aid students analyse their self performance.
+- (050) Tools to aid students analyse their self performance
+- (117) Tools to aid students analyse their self behavior
 #### (10) Intention
 - (053) Students who intended to earn a certificate in MOOCs are more likely to watch most video lectures and attempt most assessments in the course.
 - (054) Students with the intention to earn a certificate in MOOCs are more likely to actively engage on the discussion forum.
@@ -267,6 +302,7 @@
 - (083) Students not fluent in English MOOCs take significantly more video play, video pause, and seek actions compared to students fluent.
 - (113) Videos with walkthroughs coding tend to have a higher engagement than the active coding sections
 - (115) Certificate-earners also engage heavily with in-video quizzes.
+- (118) Students watching videos has high levels of inattention.
 - (---) Videos are the primary method for presenting information in many MOOCs
 #### (14) Others
 - (008) Access in the online environment resources increase in periods close exams or assessment deadline.
@@ -274,5 +310,8 @@
 - (045) The difficult level of a course is positively correlated with the rational herding of learners will be.
 - (046) The experience of learners is positively correlated with rational herding behavior.
 - (003) Courses with less than 1,000 participants are likely to fit with the Zipf’s law.
+- (119) Most learners use hardware and software setups which are capable to support Webcam-based attention tracking techniques.
+- (120) Most learners are reluctant to allow the use of Webcam-based attention tracking techniques.
+- (129) The time spent on VLE by students is on average less than the number of hours recommended by instructors.
 - (---) The frequency of engagement with Facebook has a negative correlation with the amount of time spent by students preparing for class
 - (---) Students who spend more time chatting online than their peers report greater levels of academic impairment
