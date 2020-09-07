@@ -10,4 +10,5 @@
 
 #### **[data_survey.csv](https://github.com/andrelbd1/research-edm-la/blob/master/data_survey.csv)**: Selected papers details (e.g., DOI/ISBN, authors, title, year and publisher)
 
-#### **[Published Paper](https://ieeexplore.ieee.org/document/9028398)**
+#### **[Published Paper](https://ieeexplore.ieee.org/document/9028398)**:
+- A. L. B. Damasceno, D. S. Ribeiro and S. D. J. Barbosa, "What the Literature and Instructors Say about the Analysis of Student Interaction Logs on Virtual Learning Environments," *2019 IEEE Frontiers in Education Conference (FIE)*, Covington, KY, USA, 2019, pp. 1-9, doi: 10.1109/FIE43999.2019.9028398.
