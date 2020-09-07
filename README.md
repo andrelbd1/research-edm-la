@@ -1,2 +1,3 @@
-# research-edm-la
-On going research in Educational Data Mining and Learning Analytics
+# Mapping Results
+
+#### **[Compilation.md](https://github.com/andrelbd1/research-edm-la/blob/master/Compilation.md)**: 
