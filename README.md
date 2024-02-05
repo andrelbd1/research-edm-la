@@ -12,3 +12,18 @@
 
 #### **[Published Paper](https://ieeexplore.ieee.org/document/9028398)**:
 - A. L. B. Damasceno, D. S. Ribeiro and S. D. J. Barbosa, "What the Literature and Instructors Say about the Analysis of Student Interaction Logs on Virtual Learning Environments," *2019 IEEE Frontiers in Education Conference (FIE)*, Covington, KY, USA, 2019, pp. 1-9, doi: 10.1109/FIE43999.2019.9028398.
+
+````bash
+  @inproceedings{10.1109/FIE43999.2019.9028398,
+    author = {{Damasceno}, Andr{\'{e}} Luiz Brand{\~{a}}o and {Ribeiro}, Dalai Santos and Barbosa, Simone Diniz Junqueira},
+    booktitle = {2019 IEEE Frontiers in Education Conference (FIE)},
+    doi = {10.1109/FIE43999.2019.9028398},
+    isbn = {978-1-7281-1746-1},
+    month = {oct},
+    pages = {1--9},
+    publisher = {IEEE},
+    title = {{What the Literature and Instructors Say about the Analysis of Student Interaction Logs on Virtual Learning Environments}},
+    url = {https://ieeexplore.ieee.org/document/9028398/},
+    year = {2019}
+  }
+````
