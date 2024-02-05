@@ -178,6 +178,3 @@
 - Problemas atacados em comum.
 - Objetivos em comum.
 - Resultados em comum.
-
-### Quais questões você visa responder?
-- As questões da pesquisa.
